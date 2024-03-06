@@ -24,7 +24,7 @@ const Hero = () => {
     >
         <div className="container relative" ref={parallaxRef}>
             <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-4[4rem] md:mb-20 lg:mb:[6rem]">
-                <h1 className="h1 mb-6">
+                <h1 className="h1 mb-6 pt-10">
                     Explore the Possibilities of &nbsp;AI&nbsp;Chatting with 
                     <span className="inline-block relative">Brainwave {" "}
                     <img src={curve}
